@@ -3,10 +3,12 @@
 I am a Machine Learning Engineer with a Software Engineering background, a problem-solving mindset, analytical approach to tasks, and a strong interest in research. 
 
 ### About Me 
-- 🎓 I have studied Bachelor's Degree in Software Engineering at Addis Ababa University.
-- 🎓 I just completed three months of intensive training in Machine Learning Engineering and Data Engineering at 10Academy.
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Chess and Go
+- 🎓 &nbsp;I have studied Bachelor's Degree in Software Engineering at Addis Ababa University.
+- 🎓 &nbsp;I just completed three months of intensive training in Machine Learning Engineering and Data Engineering at 10Academy.
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning PyTorch
+- 🥅 &nbsp;2021 Goals: Contribute more to Open Source projects
+- ⚡ &nbsp;Fun fact: I love to play ♟️ and ▦
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
