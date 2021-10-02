@@ -1,6 +1,4 @@
-### Hey everyone 👋🏾, I'm Elias Andualem <img height="5px" src="https://user-images.githubusercontent.com/19794057/135730596-109a4c3b-f7ec-4feb-b661-c8d8c41a5c38.png">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eandualem" alt="eandualem" /> </p>
+### Hey everyone 👋🏾, I'm Elias Andualem <img height="32px" src="https://user-images.githubusercontent.com/19794057/135730596-109a4c3b-f7ec-4feb-b661-c8d8c41a5c38.png">
 
 <!--
 **eandualem/eandualem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -81,3 +79,5 @@ I am a Machine Learning Engineer with a Software Engineering background. I am pa
 <a href="https://www.linkedin.com/in/elias-andualem-94a9a7195/"><img src="https://img.shields.io/badge/-Elias%20Andualem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:eandualem@gmail.com"><img src="https://img.shields.io/badge/-eandualem@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eandualem" alt="eandualem" /> </p>
