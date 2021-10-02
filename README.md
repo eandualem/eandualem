@@ -81,6 +81,6 @@ I am a Machine Learning Engineer with a Software Engineering background. I am pa
 </p>
 
 ### Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/eandualem/eandualem/blob/output/github-contribution-grid-snake.gif)
+![eandualem snake gif](https://github.com/eandualem/eandualem/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eandualem" alt="eandualem" /> </p>
