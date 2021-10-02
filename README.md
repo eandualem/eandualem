@@ -3,9 +3,7 @@
 <!--
 **eandualem/eandualem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am a Machine Learning Engineer with a Software Engineering background, currently looking for job opportunities in the area of Machine learning.
-
-I have demonstrable experience in end-to-end Machine Learning and Deep Learning projects, including data preparation and processing, visual analytics, machine learning, building deep learning models, and model deployment and maintenance.
+I am a Machine Learning Engineer with a Software Engineering background. I am passionate about all things technology, and I love to learn new things. Currently, I am looking for job opportunities in the area of Machine learning.
 
 ### About Me 
 - 🎓 &nbsp;I have studied Bachelor's Degree in Software Engineering at Addis Ababa University.
