@@ -16,7 +16,7 @@ I am a Machine Learning Engineer with a Software Engineering background. I am pa
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/eandualem">
-    <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eandualem&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+    <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eandualem&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=060B0D"/>
     <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=eandualem&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
   </a>
 </p>
@@ -68,7 +68,7 @@ I am a Machine Learning Engineer with a Software Engineering background. I am pa
 
 ### Connect with me:
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/elias-andualem-94a9a7195/"><img src="https://img.shields.io/badge/-Elias%20Andualem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:eandualem@gmail.com"><img src="https://img.shields.io/badge/-eandualem@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
