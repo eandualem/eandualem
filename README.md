@@ -15,10 +15,10 @@ I am a Machine Learning Engineer with a Software Engineering background. I am pa
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/eandualem">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eandualem&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=eandualem&theme=algolia">
+  <a href="https://github.com/eandualem">
+    <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eandualem&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=060B0D"/>
+    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=eandualem&theme=black-ice&hide_border=true">
+  </a>
 </p>
 
 
