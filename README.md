@@ -1,4 +1,4 @@
-### Hey everyone 👋, I'm Elias Andualem
+### Hey everyone 👋🏾, I'm Elias Andualem ![image](https://user-images.githubusercontent.com/19794057/135730596-109a4c3b-f7ec-4feb-b661-c8d8c41a5c38.png)
 
 <!--
 **eandualem/eandualem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
