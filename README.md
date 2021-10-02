@@ -80,4 +80,6 @@ I am a Machine Learning Engineer with a Software Engineering background. I am pa
 <a href="mailto:eandualem@gmail.com"><img src="https://img.shields.io/badge/-eandualem@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
+![snake gif](https://github.com/eandualem/eandualem/blob/output/github-contribution-grid-snake.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eandualem" alt="eandualem" /> </p>
