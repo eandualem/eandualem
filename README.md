@@ -3,8 +3,8 @@
 I am a Machine Learning Engineer with a Software Engineering background, a problem-solving mindset, analytical approach to tasks, and a strong interest in research. 
 
 ### About Me 
-- 🎓 I have studied Bachelors degree in Software Engineering in Addis Ababa University.
-- 🎓 I just completed three month intensive training in Machine Learning Engineering and Data Engineering at 10Academy.
+- 🎓 I have studied Bachelor's Degree in Software Engineering at Addis Ababa University.
+- 🎓 I just completed three months of intensive training in Machine Learning Engineering and Data Engineering at 10Academy.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Chess and Go
 
@@ -13,7 +13,6 @@ I am a Machine Learning Engineer with a Software Engineering background, a probl
 <a href="https://github.com/eandualem">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eandualem&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
-
 
 ### 🛠 &nbsp;Tech Stack
 #### Technologies
@@ -57,11 +56,7 @@ I am a Machine Learning Engineer with a Software Engineering background, a probl
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [End-to-end Speech Recognition model for Amharic using TensorFlow](https://medium.com/analytics-vidhya/end-to-end-speech-recognition-model-for-amharic-using-tensorflow-e72e60775bd9)
-- [Causal Inference](https://levelup.gitconnected.com/causal-inference-3d45b98ed6ae)
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://eandualem.medium.com)
 
 <br />
 
