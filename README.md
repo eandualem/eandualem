@@ -1,4 +1,7 @@
-### Hi there 👋, I am Elias Andualem
+### Hey everyone 👋, I'm Elias Andualem
+
+<!--
+**eandualem/eandualem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 I am a Machine Learning Engineer with a Software Engineering background, a problem-solving mindset, analytical approach to tasks, and a strong interest in research. 
 
@@ -14,7 +17,11 @@ I am a Machine Learning Engineer with a Software Engineering background, a probl
 <p align="center">
 <a href="https://github.com/eandualem">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eandualem&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=eandualem&theme=algolia">
 </p>
+
+
 
 ### 🛠 &nbsp;Tech Stack
 #### Technologies
@@ -72,4 +79,3 @@ I am a Machine Learning Engineer with a Software Engineering background, a probl
 <a href="https://www.linkedin.com/in/elias-andualem-94a9a7195/"><img src="https://img.shields.io/badge/-Elias%20Andualem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:eandualem@gmail.com"><img src="https://img.shields.io/badge/-eandualem@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
