@@ -78,8 +78,9 @@ I am a Machine Learning Engineer with a Software Engineering background. I am pa
     <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eandualem&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=060B0D"/>
     <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=eandualem&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
   </a>
+  <a href="https://github.com/eandualem"><img alt="eandualem's Activity Graph"  width="804px" src="https://activity-graph.herokuapp.com/graph?username=eandualem&theme=react-dark&hide_border=true" /></a>
 </p>
-<a href="https://github.com/eandualem"><img alt="eandualem's Activity Graph"  width="804px" src="https://activity-graph.herokuapp.com/graph?username=eandualem&bg_color=060B0D&color=52B9D4&line=3EA14E&point=FFFFFF&hide_bordertrue" /></a>
+
 
 ## Latest Blog Posts
 
