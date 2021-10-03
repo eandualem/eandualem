@@ -15,67 +15,75 @@ I am a Machine Learning Engineer with a Software Engineering background. I am pa
 - ⚡ &nbsp;Fun fact: I love to play ♟️ and ▦
 
 
-## 📘 My top open source projects
-
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+### My top open source projects
 <p align="left">
   <a href="https://github.com/eandualem/PythonLidar"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=PythonLidar&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/eandualem/Twitter-Data-Analysis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=Twitter-Data-Analysis&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/eandualem/abtest-mlops"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=abtest-mlops&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/eandualem/PharmaceuticalSalesPrediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=PharmaceuticalSalesPrediction&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/eandualem/telecom_analytics"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=telecom_analytics&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/eandualem/Amharic-to-ESL-Translator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=Amharic-to-ESL-Translator&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/eandualem?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/eandualem?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo&bg_color=060B0D"/></a>
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
+### Top projects I've contributed to
+<p align="left">
+  <a href="https://github.com/10acad-group3/speech_recognition"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=10acad-group3&repo=speech_recognition&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/10-Academy-quad-squad/casual-graph"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=10-Academy-quad-squad&repo=casual-graph&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/week9-Benkart/amharic-voice"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=week9-Benkart&repo=amharic-voice&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a> 
+</p>
+
+### GitHub Analytics
 <p align="center">
   <a href="https://github.com/eandualem">
     <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eandualem&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=060B0D"/>
     <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=eandualem&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
   </a>
 </p>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="eandualem's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eandualem&bg_color=060B0D&color=52B9D4&line=3EA14E&point=FFFFFF&hide_border=true" /></a>
 
 
-### 🛠 &nbsp;Tech Stack
+### Tech Stack
 #### Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=FFA518)&nbsp;
-![C#](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
 
 #### Frameworks/Libraries
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=FFA518)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=FFA518)&nbsp;
-![Spark](https://img.shields.io/badge/Spark%20-%23150458.svg?&style=flat&logo=Spark&logoColor=FFA518)&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit%20learn%20-%23150458.svg?&style=flat&logo=scikit_learn&logoColor=FFA518)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23150458.svg?&style=flat&logo=TensorFlow&logoColor=FFA518)&nbsp;
-![Keras](https://img.shields.io/badge/Keras%20-%23150458.svg?&style=flat&logo=Keras&logoColor=FFA518)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=FFA518)&nbsp;
-![Streamlit](https://img.shields.io/badge/Streamlit%20-%23150458.svg?&style=flat&logo=Streamlit&logoColor=FFA518)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=FFA518)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=FFA518)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter%20-%23150458.svg?&style=flat&logo=Flutter&logoColor=FFA518)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
+![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=Spark)&nbsp;
+![scikit-learn](https://img.shields.io/badge/-scikit%20learn-05122A?style=flat&logo=scikit%20learn)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask)&nbsp;
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit)&nbsp;
+![Pytest](https://img.shields.io/badge/-Pytest-05122A?style=flat&logo=Pytest)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
+
 
 #### Databases
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=Mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Cloud Firestore](https://img.shields.io/badge/-Cloud_Firestore-05122A?style=flat&logo=Cloud_Firestore)&nbsp;
+![Cloud Firestore](https://img.shields.io/badge/-Cloud%20Firestore-05122A?style=flat&logo=Cloud%20Firestore)&nbsp;
 
 #### Tools
 ![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat&logo=MLflow)&nbsp;
 ![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=Airflow)&nbsp;
 ![DVC](https://img.shields.io/badge/-DVC-05122A?style=flat&logo=DVC)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
-![github actions](https://img.shields.io/badge/-Github_Action-05122A?style=flat&logo=Github_Action)&nbsp;
+![github actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=GitHub%20Actions)&nbsp;
 ![Travis%20CI](https://img.shields.io/badge/-Travis%20CI-05122A?style=flat&logo=Travis%20CI)&nbsp;
 
-### 📕 Latest Blog Posts
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Causal Inference](https://levelup.gitconnected.com/causal-inference-3d45b98ed6ae?source=rss-bb712ce953c5------2)
