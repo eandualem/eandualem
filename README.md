@@ -1,8 +1,9 @@
 # Hi, I'm Elias Andualem 👋🏾
 
-**Lead Generative AI & Agentic Engineer.** I build production AI systems — multi-agent orchestration, MCP infrastructure, RAG, and LLM evaluation — and the full-stack platforms around them. ~5 years shipping AI, most recently leading Generative AI at **Arclio** and **Tenacious**.
+**Lead Generative AI & Agentic Engineer.** I build production AI systems: multi-agent orchestration, MCP infrastructure, RAG, and the LLM evaluation that keeps them honest, plus the full-stack platforms they run on. About five years in, most recently leading Generative AI at **Arclio** and **Tenacious**.
 
-📍 Addis Ababa, Ethiopia (UTC+3) — working remotely with US teams &nbsp;·&nbsp; 🔭 Open to **Lead / Senior Generative AI** roles (remote via EOR/contract — no sponsorship needed, or relocation with sponsorship)
+📍 Based in Addis Ababa, Ethiopia (UTC+3), working remotely with US teams.
+🔭 Open to **Lead / Senior Generative AI** roles: fully remote (contract or EOR, no sponsorship needed), or on-site with relocation and sponsorship.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/elias-andualem/"><img src="https://img.shields.io/badge/-Elias%20Andualem-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -13,52 +14,20 @@
 
 ## What I build
 
-- 🤖 &nbsp;**Agentic systems** — multi-agent orchestration, tool use, and workflow engines (LangGraph, Pydantic AI, Claude Agent SDK, XState)
-- 🔌 &nbsp;**MCP infrastructure** — multi-tenant MCP hubs and open-source MCP servers (Google Workspace, Weaviate, S3)
-- 📚 &nbsp;**RAG & evaluation** — hybrid retrieval on Weaviate, eval harnesses (RAGAS, QASPER), responsible AI (NIST AI RMF)
-- 🧱 &nbsp;**AI platforms** — FastAPI services and multi-provider LLM stacks (Anthropic, OpenAI, Gemini, Mistral)
-
-## Selected open source
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Arclio/github-projects-mcp"><b>github-projects-mcp</b></a>
-      &nbsp;<img src="https://img.shields.io/github/stars/Arclio/github-projects-mcp?style=flat&label=%E2%AD%90&color=F8D866" alt="stars"/><br/>
-      MCP server that lets agents read and drive GitHub Projects boards.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Arclio/arclio-mcp-tooling"><b>arclio-mcp-tooling</b></a>
-      &nbsp;<img src="https://img.shields.io/github/stars/Arclio/arclio-mcp-tooling?style=flat&label=%E2%AD%90&color=F8D866" alt="stars"/><br/>
-      Tooling for building and operating MCP servers.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/eandualem/xstate-mcp"><b>xstate-mcp</b></a>
-      &nbsp;<img src="https://img.shields.io/github/stars/eandualem/xstate-mcp?style=flat&label=%E2%AD%90&color=F8D866" alt="stars"/><br/>
-      Exposing XState state machines to agents over MCP.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/eandualem/Amharic-to-ESL-Translator"><b>Amharic-to-ESL-Translator</b></a>
-      &nbsp;<img src="https://img.shields.io/github/stars/eandualem/Amharic-to-ESL-Translator?style=flat&label=%E2%AD%90&color=F8D866" alt="stars"/><br/>
-      Earlier research — Amharic → Ethiopian Sign Language translation (low-resource NLP; I'm a native Amharic & Oromo speaker).
-    </td>
-  </tr>
-</table>
+- **Agentic systems.** Multi-agent orchestration, tool use, and workflow engines (LangGraph, Pydantic AI, Claude Agent SDK, XState).
+- **MCP infrastructure.** Multi-tenant hubs and the servers that plug into them (Google Workspace, Weaviate, S3).
+- **RAG and evaluation.** Hybrid retrieval on Weaviate, with RAGAS and QASPER harnesses so I can show retrieval actually got better, not just claim it did.
+- **The platform underneath.** FastAPI services and multi-provider LLM stacks (Anthropic, OpenAI, Gemini, Mistral), with NIST AI RMF on the governance side.
 
 ## Recent roles
 
-- **Arclio** — *Lead Generative AI Engineer* · Apr 2025 – Mar 2026<br/>
-  Built a "Vercel for MCP" platform: a multi-tenant MCP hub, a no-code agent workflow engine, hybrid (BM25 + vector) RAG on Weaviate, and a secure executor for running untrusted tool/agent calls.
-- **Tenacious** — *Lead Generative AI Engineer* · Oct 2023 – Apr 2025<br/>
-  Shipped production multi-channel AI assistants, LangGraph feature-extraction agents (~70% better data accuracy), and LLM evaluation pipelines (~50% higher reliability).
+**Arclio** · Lead Generative AI Engineer · Apr 2025 – Mar 2026
+Built a "Vercel for MCP" platform: a multi-tenant MCP hub, a no-code engine that turns plain-English intent into agent runs, hybrid (BM25 + vector) RAG on Weaviate, and Janus, a sandbox that runs untrusted tool calls without trusting them.
 
-<sub>Full history on <a href="https://www.linkedin.com/in/elias-andualem/">LinkedIn</a> →</sub>
+**Tenacious** · Lead Generative AI Engineer · Oct 2023 – Apr 2025
+Shipped multi-channel AI assistants in production, LangGraph extraction agents that pushed data accuracy up about 70%, and evaluation pipelines that lifted reliability around 50%.
+
+<sub>Fuller history on <a href="https://www.linkedin.com/in/elias-andualem/">LinkedIn</a>.</sub>
 
 ## Tech
 
