@@ -1,9 +1,9 @@
 # Hi, I'm Elias Andualem 👋🏾
 
-**Lead Generative AI & Agentic Engineer.** I build production AI systems: multi-agent orchestration, MCP infrastructure, RAG, and the LLM evaluation that keeps them honest, plus the full-stack platforms they run on. About five years in, most recently leading Generative AI at **Arclio** and **Tenacious**.
+**Senior AI Engineer.** I build production AI systems: multi-agent orchestration, MCP infrastructure, RAG, and the LLM evaluation that keeps them honest, plus the full-stack platforms they run on. Six years of AI and machine learning experience as of September 2026, most recently as a Senior AI Engineer at **Arclio** and **Tenacious Intelligence**.
 
 📍 Based in Addis Ababa, Ethiopia (UTC+3), working remotely with US teams.
-🔭 Open to **Lead / Senior Generative AI** roles: fully remote (contract or EOR, no sponsorship needed), or on-site with relocation and sponsorship.
+🔭 Open to **Senior AI Engineer** roles: fully remote (contract or EOR, no sponsorship needed), or on-site with relocation and sponsorship.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/elias-andualem/"><img src="https://img.shields.io/badge/-Elias%20Andualem-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -21,10 +21,10 @@
 
 ## Recent roles
 
-**Arclio** · Lead Generative AI Engineer · Apr 2025 – Mar 2026
+**Arclio** · Senior AI Engineer · Apr 2025 – Mar 2026
 Built a "Vercel for MCP" platform: a multi-tenant MCP hub, a no-code engine that turns plain-English intent into agent runs, hybrid (BM25 + vector) RAG on Weaviate, and Janus, a sandbox that runs untrusted tool calls without trusting them.
 
-**Tenacious** · Lead Generative AI Engineer · Oct 2023 – Apr 2025
+**Tenacious Intelligence** · Senior AI Engineer · Oct 2023 – Apr 2025
 Shipped multi-channel AI assistants in production, LangGraph extraction agents that pushed data accuracy up about 70%, and evaluation pipelines that lifted reliability around 50%.
 
 <sub>Fuller history on <a href="https://www.linkedin.com/in/elias-andualem/">LinkedIn</a>.</sub>
