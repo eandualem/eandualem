@@ -19,26 +19,36 @@ I build AI systems from the application interface to the infrastructure undernea
 
 ### Agent Backbone
 
-<a href="https://youtu.be/yKV8RNgqRsE"><img src="https://raw.githubusercontent.com/eandualem/agent-backbone/develop/docs/media/film-why-backbone.jpg" alt="Watch Why Backbone: terminal coding agents working as a team" width="800"></a>
+Why Backbone · 2:23
+
+https://github.com/user-attachments/assets/4218fdbe-e581-49bd-879f-288d41c9f72f
+
+Overview · 1:23
+
+https://github.com/user-attachments/assets/695a6096-4196-4115-911c-a0043d632088
 
 Terminal coding agents working as a team across Claude Code, Codex and OpenCode. Communication, delegated work and continuity across projects.
 
 <sub>Agent coordination · Python · CLI integrations</sub><br>
-[Explore the project](https://github.com/eandualem/agent-backbone) · [Watch the overview · 1:23](https://youtu.be/3gOH3t3woXM) · [Why Backbone · 2:23](https://youtu.be/yKV8RNgqRsE) · [Playlist](https://www.youtube.com/playlist?list=PLMq17WKA4Z88)
+[Explore the project](https://github.com/eandualem/agent-backbone) · [Overview on YouTube](https://youtu.be/3gOH3t3woXM) · [Why Backbone on YouTube](https://youtu.be/yKV8RNgqRsE) · [YouTube playlist](https://www.youtube.com/playlist?list=PLMq17WKA4Z88)
 
 ### Entune
 
-<a href="https://youtu.be/xiBObz8Ugm8">
+<a href="https://github.com/eandualem/entune">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eandualem/entune/main/docs/brand/entune-logo-dark.svg">
-    <img src="https://raw.githubusercontent.com/eandualem/entune/main/docs/brand/entune-logo-light.svg" alt="Entune: watch the contextual dictionary demo" height="64">
+    <img src="https://raw.githubusercontent.com/eandualem/entune/main/docs/brand/entune-logo-light.svg" alt="Entune" height="64">
   </picture>
 </a>
+
+A 42-second tour of Entune on a Mac:
+
+https://github.com/user-attachments/assets/bcbc632c-c74e-441f-a802-a3b9f4fe6d5f
 
 Dictation for macOS, Windows and Linux. Choose a local or cloud speech model, speak into any application, and use a personal dictionary whose corrections consider the sentence.
 
 <sub>Speech recognition · Contextual corrections · Desktop applications</sub><br>
-[Explore Entune](https://github.com/eandualem/entune) · [Watch the dictionary demo](https://youtu.be/xiBObz8Ugm8) · [Archived 0.3.0 tour](https://youtu.be/4V297JsJ46U) · [Playlist](https://www.youtube.com/playlist?list=PLYvbVQAyQrzY)
+[Explore Entune](https://github.com/eandualem/entune) · [Dictionary demo on YouTube](https://youtu.be/xiBObz8Ugm8) · [Archived 0.3.0 tour on YouTube](https://youtu.be/4V297JsJ46U) · [YouTube playlist](https://www.youtube.com/playlist?list=PLYvbVQAyQrzY)
 
 ### tmux-workspaces
 
@@ -73,12 +83,18 @@ Group terminals by purpose, name their tabs, keep a split layout in each one, an
 
 ### Decision Arena
 
-<a href="https://youtu.be/zo50Fkto2JQ"><img src="https://raw.githubusercontent.com/eandualem/decision-arena/main/docs/images/race-poster.jpg" alt="Watch decision models race through a 3D runner game" width="800"></a>
+Watch a race · 28s
+
+https://github.com/user-attachments/assets/f500dfc3-a4b5-48f8-b9f3-234fac9e9d74
+
+How it works · 4min
+
+https://github.com/user-attachments/assets/06496c80-968b-4544-a246-360d391c66fb
 
 Decision models race through a world that keeps moving while they think. Each model chooses its next move as soon as the previous answer arrives, making both decision quality and response speed visible.
 
 <sub>Decision models · Asynchronous inference · Real-time 3D</sub><br>
-[Explore Decision Arena](https://github.com/eandualem/decision-arena) · [Watch a race · 28s](https://youtu.be/zo50Fkto2JQ) · [How it works · 4min](https://youtu.be/dgG4_fvZqdM) · [Playlist](https://www.youtube.com/playlist?list=PLbt997ez0__g)
+[Explore Decision Arena](https://github.com/eandualem/decision-arena) · [Race on YouTube](https://youtu.be/zo50Fkto2JQ) · [Explainer on YouTube](https://youtu.be/dgG4_fvZqdM) · [YouTube playlist](https://www.youtube.com/playlist?list=PLbt997ez0__g)
 
 ### Avatar Studio
 
