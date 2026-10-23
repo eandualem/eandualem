@@ -24,7 +24,7 @@ I build AI systems from the application interface to the infrastructure undernea
 Terminal coding agents working as a team across Claude Code, Codex and OpenCode. Communication, delegated work and continuity across projects.
 
 <sub>Agent coordination · Python · CLI integrations</sub><br>
-[Explore the project](https://github.com/eandualem/agent-backbone) · [Watch the overview · 1:23](https://youtu.be/3gOH3t3woXM) · [Why Backbone · 2:23](https://youtu.be/yKV8RNgqRsE) · [Playlist](https://www.youtube.com/playlist?list=PLMq17WKA4Z88)
+[Explore the project](https://github.com/eandualem/agent-backbone) · [Watch the overview · 1:23](https://youtu.be/3gOH3t3woXM) · [Why Backbone · 2:23](https://youtu.be/yKV8RNgqRsE)
 
 ### Entune
 
@@ -38,7 +38,7 @@ Terminal coding agents working as a team across Claude Code, Codex and OpenCode.
 Dictation for macOS, Windows and Linux. Choose a local or cloud speech model, speak into any application, and use a personal dictionary whose corrections consider the sentence.
 
 <sub>Speech recognition · Contextual corrections · Desktop applications</sub><br>
-[Explore Entune](https://github.com/eandualem/entune) · [Watch the dictionary demo](https://youtu.be/xiBObz8Ugm8) · [Archived 0.3.0 tour](https://youtu.be/4V297JsJ46U) · [Playlist](https://www.youtube.com/playlist?list=PLYvbVQAyQrzY)
+[Explore Entune](https://github.com/eandualem/entune) · [Watch the dictionary demo](https://youtu.be/xiBObz8Ugm8) · [Archived 0.3.0 tour](https://youtu.be/4V297JsJ46U)
 
 ### tmux-workspaces
 
@@ -78,7 +78,7 @@ Group terminals by purpose, name their tabs, keep a split layout in each one, an
 Decision models race through a world that keeps moving while they think. Each model chooses its next move as soon as the previous answer arrives, making both decision quality and response speed visible.
 
 <sub>Decision models · Asynchronous inference · Real-time 3D</sub><br>
-[Explore Decision Arena](https://github.com/eandualem/decision-arena) · [Watch a race · 28s](https://youtu.be/zo50Fkto2JQ) · [How it works · 4min](https://youtu.be/dgG4_fvZqdM) · [Playlist](https://www.youtube.com/playlist?list=PLbt997ez0__g)
+[Explore Decision Arena](https://github.com/eandualem/decision-arena) · [Watch a race · 28s](https://youtu.be/zo50Fkto2JQ) · [How it works · 4min](https://youtu.be/dgG4_fvZqdM)
 
 ### Avatar Studio
 
@@ -120,7 +120,6 @@ Python · TypeScript · JavaScript · FastAPI · Node.js · GraphQL · Django ·
 React · Next.js · Redux · Vue · Nuxt · XState · Flutter · React Native
 
 ### AI and agents
-
 
 <p>
   <img src="assets/technologies/PyTorch-Dark.svg" alt="PyTorch" width="48" height="48">
