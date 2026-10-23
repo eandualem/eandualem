@@ -74,7 +74,9 @@ Group terminals by purpose, name their tabs, keep a split layout in each one, an
 
 ### Decision Pitch
 
-<a href="https://github.com/eandualem/decision-pitch"><img src="https://raw.githubusercontent.com/eandualem/decision-pitch/develop/docs/media/match.png" alt="Decision Pitch: AI players in a 3D soccer match with their decision models shown above them" width="800"></a>
+Full match · 6:35
+
+https://github.com/user-attachments/assets/2c24ac1a-3c8c-4e93-8a08-2ebd1b989487
 
 22 AI players, two managers, one soccer match. Decision models control the players while language models choose lineups and tactics. The match keeps moving while they think.
 
