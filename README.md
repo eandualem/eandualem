@@ -73,13 +73,6 @@ Dictation for macOS, Windows and Linux. Choose a local or cloud speech model, sp
 <sub>Speech recognition · Contextual corrections · Desktop applications</sub><br>
 [Explore Entune](https://github.com/eandualem/entune) · [Dictionary demo on YouTube](https://youtu.be/xiBObz8Ugm8) · [Archived 0.3.0 tour on YouTube](https://youtu.be/4V297JsJ46U) · [YouTube playlist](https://www.youtube.com/playlist?list=PLYvbVQAyQrzY)
 
-### tmux-workspaces
-
-Group terminals by purpose, name their tabs, keep a split layout in each one, and return to the same arrangement. A workspace layer for the shells and sessions you already run in tmux.
-
-<sub>Terminal interfaces · Python · Developer tools</sub><br>
-[Explore tmux-workspaces](https://github.com/eandualem/tmux-workspaces)
-
 ## AI inside applications
 
 ### Assistant Runtime + Design Studio
