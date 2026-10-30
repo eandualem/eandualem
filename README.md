@@ -1,11 +1,12 @@
 <h1 align="center">Elias Andualem</h1>
 
 <p align="center">
-  <strong>Senior AI and Full Stack Engineer</strong><br>
-  AI systems, useful tools, and a few playful experiments.
+  <strong>Building Agent Interface</strong><br>
+  A native workspace for your agent team.
 </p>
 
 <p align="center">
+  <a href="https://agentinterface.dev/"><strong>Try Agent Interface ↗</strong></a> ·
   <a href="https://www.linkedin.com/in/elias-andualem/">LinkedIn</a> ·
   <a href="mailto:eandualem@gmail.com">Email</a> ·
   <a href="#tools-for-everyday-work">Tools</a> ·
@@ -13,7 +14,29 @@
   <a href="#technologies">Technologies</a>
 </p>
 
-I build AI systems from the application interface to the infrastructure underneath. Six years of AI and machine learning work, including enterprise assistants, retrieval systems, MCP integrations and full stack applications. These open source projects explore the same ideas in tools you can run and inspect.
+## Agent Interface
+
+**Your agents work as a team. You stay in the decisions.**
+
+Run Claude Code, Codex and OpenCode in one native workspace. See which agent needs you, follow its progress, and discuss plans, documents and results beside the work.
+
+**[Try Agent Interface →](https://agentinterface.dev/)** · [Install](https://agentinterface.dev/#install) · [Source code](https://github.com/eandualem/agent-interface)
+
+<a href="https://agentinterface.dev/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eandualem/agent-interface/main/docs/media/workspace-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eandualem/agent-interface/main/docs/media/workspace-light.png">
+    <img src="https://raw.githubusercontent.com/eandualem/agent-interface/main/docs/media/workspace-light.png" alt="Agent Interface: agent status, terminal panes and team tools in one workspace. Illustration with example data." width="900">
+  </picture>
+</a>
+
+<sub>Illustration with example data. Open source · macOS · Linux · Windows through WSL</sub>
+
+One install sets up the app and its coordination tools. Open Agent Interface and connect an agent tool you already use to get started.
+
+## About me
+
+Senior AI and Full Stack Engineer. I build AI systems from the application interface to the infrastructure underneath, including enterprise assistants, retrieval systems and MCP integrations. Below are more tools and experiments you can run and inspect.
 
 ## Tools for everyday work
 
